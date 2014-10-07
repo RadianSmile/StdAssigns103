@@ -1,6 +1,6 @@
 SlotMachine machine;
 boolean rolling = false;
-// button information
+// button information  //
 boolean button = false;
 int x = 640/2;
 int y = 440;
